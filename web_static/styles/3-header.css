@@ -1,0 +1,24 @@
+header {
+    background-color: #FF0000;
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px #CCCCCC solid;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
