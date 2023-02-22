@@ -6,19 +6,11 @@ header {
     border-bottom: 1px #CCCCCC solid;
   }
   
-  nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
-  nav li {
-    display: inline-block;
-    margin-right: 20px;
-  }
-  
-  nav a {
-    color: white;
-    text-decoration: none;
-  }
+  .logo {
+    background-image:url('../images/holbie_icon.png');
+    background-repeat: no-repeat;
+    background-position: 20px;
+    min-width: 100%;
+    min-height: 100%;
+}
   
